@@ -1,0 +1,20 @@
+
+[
+    {
+        "id": 1,
+        "name": "ADA",
+        "hobbies": [
+            "Fotograf",
+            "Watch"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Tommy",
+        "hobbies": [
+            "Code",
+            "Fotograf",
+            "Entrepreneur"
+        ]
+    }
+]

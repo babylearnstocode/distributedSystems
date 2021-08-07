@@ -1,0 +1,68 @@
+
+[
+    {
+        "id": 1,
+        "datum": "2021-07-29",
+        "kunde": {
+            "id": 1,
+            "name": "Tommy"
+        },
+        "positionen": [
+            {
+                "posnr": 1,
+                "menge": 4,
+                "artikel": {
+                    "id": 1,
+                    "preis": 69.96,
+                    "bestand": 5
+                }
+            },
+            {
+                "posnr": 2,
+                "menge": 2,
+                "artikel": {
+                    "id": 3,
+                    "preis": 69.96,
+                    "bestand": 5
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "datum": "2021-07-29",
+        "kunde": {
+            "id": 2,
+            "name": "Dreamer"
+        },
+        "positionen": [
+            {
+                "posnr": 3,
+                "menge": 1,
+                "artikel": {
+                    "id": 1,
+                    "preis": 69.96,
+                    "bestand": 5
+                }
+            },
+            {
+                "posnr": 4,
+                "menge": 5,
+                "artikel": {
+                    "id": 2,
+                    "preis": 69.96,
+                    "bestand": 5
+                }
+            },
+            {
+                "posnr": 5,
+                "menge": 1,
+                "artikel": {
+                    "id": 4,
+                    "preis": 69.96,
+                    "bestand": 5
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+
+{
+    "comment2": null,
+    "date": "28.07.2021",
+    "person1": "Hugo",
+    "price": "10.99",
+    "prio": "HIGH",
+    "private-string": "My private string",
+    "public-string": "My public string",
+    "time": "17:43:00",
+    "timestamp": "2018-01-27T17:46:10",
+    "token": "TWVpbiBUb2tlbg==",
+    "writer": "Joseph Roth"
+}
